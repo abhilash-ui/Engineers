@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="138259" started-at="2021-02-26T10:42:25Z" finished-at="2021-02-26T10:44:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="138259" started-at="2021-02-26T10:42:25Z" finished-at="2021-02-26T10:44:43Z">
+      <class name="TestCases.TC_002_contact_us">
+        <test-method status="PASS" signature="Pre()[pri:0, instance:TestCases.TC_002_contact_us@309e345f]" name="Pre" is-config="true" duration-ms="39465" started-at="2021-02-26T16:13:22Z" finished-at="2021-02-26T16:14:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pre -->
+        <test-method status="PASS" signature="Verify_login()[pri:0, instance:TestCases.TC_002_contact_us@309e345f]" name="Verify_login" duration-ms="41367" started-at="2021-02-26T16:14:02Z" finished-at="2021-02-26T16:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_login -->
+        <test-method status="PASS" signature="Post()[pri:0, instance:TestCases.TC_002_contact_us@309e345f]" name="Post" is-config="true" duration-ms="0" started-at="2021-02-26T16:14:43Z" finished-at="2021-02-26T16:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+      </class> <!-- TestCases.TC_002_contact_us -->
+      <class name="TestCases.TC_001_Links">
+        <test-method status="PASS" signature="Pre()[pri:0, instance:TestCases.TC_001_Links@7a4ccb53]" name="Pre" is-config="true" duration-ms="18321" started-at="2021-02-26T16:12:25Z" finished-at="2021-02-26T16:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pre -->
+        <test-method status="PASS" signature="Top_links()[pri:0, instance:TestCases.TC_001_Links@7a4ccb53]" name="Top_links" duration-ms="39038" started-at="2021-02-26T16:12:43Z" finished-at="2021-02-26T16:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Top_links -->
+        <test-method status="PASS" signature="Post()[pri:0, instance:TestCases.TC_001_Links@7a4ccb53]" name="Post" is-config="true" duration-ms="1" started-at="2021-02-26T16:13:22Z" finished-at="2021-02-26T16:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+      </class> <!-- TestCases.TC_001_Links -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
